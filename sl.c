@@ -270,7 +270,7 @@ void add_smoke(int y, int x)
             "(FEN)"  , "(FEN)"  , "(FEN)"  , "(FEN)"  , "(FEN)"  ,
  	    "(FE)"   , "(FE)"   , "(FE)"   , "(FE)"   , "(FE)"   ,
             "(F)"    , "(F)"    , "(F)"    , "(F)"    , "(F)"    ,
-            " "                                          }};
+                                                      }};
     static char *Eraser[SMOKEPTNS]
         =  {"     ", "      ", "      ", "     ", "    ",
             "    " , "   "   , "   "   , "  "   , "  "  ,
