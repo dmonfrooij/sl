@@ -265,6 +265,7 @@ void add_smoke(int y, int x)
             "O"    , "O"     , "O"     , "O"    , "O"   ,
             " "                                          },
            {"(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)",
+	    "(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)",
 	    "(FENN)" , "(FENN)" , "(FENN)" , "(FENN)" , "(FENN)" ,
             "(FEN)"  , "(FEN)"  , "(FEN)"  , "(FEN)"  , "(FEN)"  ,
  	    "(FE)"   , "(FE)"   , "(FE)"   , "(FE)"   , "(FE)"   ,
