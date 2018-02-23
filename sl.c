@@ -264,12 +264,12 @@ void add_smoke(int y, int x)
             "(  )" , "( )"   , "( )"   , "()"   , "()"  ,
             "O"    , "O"     , "O"     , "O"    , "O"   ,
             " "                                          },
-           {"(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)",
-	    "(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)",
-	    "(DAVI)" , "(DAVI)" , "(DAVI)" , "(DAVI)" , "(DAVI)" ,
-            "(DAV)"  , "(DAV)"  , "(DAV)"  , "(DAV)"  , "(DAV)"  ,
- 	    "(DA)"   , "(DA)"   , "(DA)"   , "(DA)"   , "(DA)"   ,
-            "(D)"    , "(D)"    , "(D)"    , "(D)"    , "(D)"   ,
+           {"(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)",
+	    "(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)", "(FENNA)",
+	    "(FENN)" , "(FENN)" , "(FENN)" , "(FENN)" , "(FENN)" ,
+            "(FEN)"  , "(FEN)"  , "(FEN)"  , "(FEN)"  , "(FEN)"  ,
+ 	    "(FE)"   , "(FE)"   , "(FE)"   , "(FE)"   , "(FE)"   ,
+            "(F)"    , "(F)"    , "(F)"    , "(F)"    , "(F)"    ,
             " "                                          }};
     static char *Eraser[SMOKEPTNS]
         =  {"     ", "      ", "      ", "     ", "    ",
