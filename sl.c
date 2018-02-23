@@ -265,9 +265,11 @@ void add_smoke(int y, int x)
             "O"    , "O"     , "O"     , "O"    , "O"   ,
             " "                                          },
            {"(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)",
-	    "(DAVI)", "(DAVI)", "(DAVI)", "(DAVI)", "(DAVI)",
-            "(DAV)", "(DAV)", "(DAV)"  , "(DAV)" , "(DAV)"  ,
-            "D"    , "D"     , "D"     , "D"    , "D"   ,
+	    "(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)", "(DAVID)",
+	    "(DAVI)" , "(DAVI)" , "(DAVI)" , "(DAVI)" , "(DAVI)" ,
+            "(DAV)"  , "(DAV)"  , "(DAV)"  , "(DAV)"  , "(DAV)"  ,
+ 	    "(DA)"   , "(DA)"   , "(DA)"   , "(DA)"   , "(DA)"   ,
+            "(D)"    , "(D)"    , "(D)"    , "(D)"    , "(D)"   ,
             " "                                          }};
     static char *Eraser[SMOKEPTNS]
         =  {"     ", "      ", "      ", "     ", "    ",
